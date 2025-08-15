@@ -36,13 +36,4 @@ Run the application
 
 Simply open the index.html file in your browser.
 
-📷 Screenshots
 
-(Add screenshots here to showcase the UI)
-
-📂 Project Structure
-QR_CODE_GENERATOR/
-│── index.html        # Main HTML file  
-│── style.css         # Styling for the UI  
-│── script.js         # QR code generation logic  
-│── README.md         # Project documentation 
