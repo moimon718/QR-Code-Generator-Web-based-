@@ -20,20 +20,4 @@ CSS3 – Styling and responsive design.
 JavaScript (ES6) – Logic for generating QR codes.
 
 QRCode.js (or any QR library used).
-Installation & Usage
-
-Clone the repository
-
-git clone https://github.com/sarojpanrui/QR_CODE_GENERATOR.git
-
-
-Open the project folder
-
-cd QR_CODE_GENERATOR
-
-
-Run the application
-
-Simply open the index.html file in your browser.
-
 
